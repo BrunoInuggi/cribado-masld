@@ -28,7 +28,7 @@ aplicación web funcional.
 
 ## Contenido del repositorio
 
-- `TFM.ipynb` — análisis completo, modelado e interpretabilidad
+- `TFM_final.ipynb` — análisis completo, modelado e interpretabilidad
 - `app_deploy.py` — aplicación web (Streamlit)
 - `modelos_app.pkl` — modelos entrenados
 - `requirements.txt` — dependencias
